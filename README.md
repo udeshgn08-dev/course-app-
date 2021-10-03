@@ -5,4 +5,6 @@ Create Dynamic web project
 
 mysql 8
 
-apache tomcat 9
+apache tomcat 9 
+
+Import html,CSS and images to the project
