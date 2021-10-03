@@ -1,10 +1,8 @@
 ### course-app
-Eclipse or IntelliJ Idea. Minimum compilation level 1.8
 
-Create Dynamic web project
+## Resources 
+https://tomcat.apache.org/download-90.cgi
 
-mysql 8
+https://www.javatpoint.com/creating-servlet-in-eclipse-ide
 
-apache tomcat 9 
-
-Import html,CSS and images to the project
+https://programmerbay.com/create-an-application-to-add-and-multiply-two-numbers-to-the-servlet-to-the-user-in-apache-tomcat-server/
