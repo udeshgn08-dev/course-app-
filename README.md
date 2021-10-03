@@ -1,6 +1,6 @@
 ### course-app
 
-## Resources 
+## starter
 https://tomcat.apache.org/download-90.cgi
 
 https://www.javatpoint.com/creating-servlet-in-eclipse-ide
