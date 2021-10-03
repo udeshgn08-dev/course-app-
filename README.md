@@ -1,2 +1,2 @@
-# course-app-
+# course-app
 Servlet project
